@@ -97,6 +97,6 @@ void LineCount()
             ch = fgetc(fp);
         }
     }
-    printf("line count is :%d\n",l);
+    printf("line count is:%d\n",l);
     fclose(fp);
 }
